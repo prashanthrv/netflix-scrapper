@@ -1,0 +1,24 @@
+{
+  "name": "netflixscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashanth R",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.7.7",
+    "bluebird": "^3.7.2",
+    "core-js": "^2.6.11",
+    "mongoose": "^5.8.3",
+    "puppeteer": "^1.20.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-transform-runtime": "^7.7.6",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/register": "^7.7.7"
+  }
+}
